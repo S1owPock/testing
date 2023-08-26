@@ -32,25 +32,25 @@
     list-style-type: none;
   }
   .visa {
-    background-image: url("/src/img/visa.png");
+    background-image: url("../img/visa.png");
   }
   .master {
-    background-image: url("/src/img/mastercard.png");
+    background-image: url("../img/mastercard.png");
   }
   .amex {
-    background-image: url("/src/img/american_express.png");
+    background-image: url("../img/american_express.png");
   }
   .jcb {
-    background-image: url("/src/img/jcb.png");
+    background-image: url("../img/jcb.png");
   }
   .discover {
-    background-image: url("/src/img/discover.png");
+    background-image: url("../img/discover.png");
   }
   .diners {
-    background-image: url("/src/img/diners_club.png");
+    background-image: url("../img/diners_club.png");
   }
   .mir {
-    background-image: url("/src/img/mir.png");
+    background-image: url("../img/mir.png");
   }
   
   .cardvisible {
